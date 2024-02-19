@@ -12,7 +12,7 @@
 
 <a href="#">
   <img width="80%"
-            src="https://github.com/Juan-Sebastian-Rios-Martinez/3D/assets/47394043/4556c6ce-20ca-4ef4-bb49-1551d6874264" />
+            src="https://github.com/Juan-Sebastian-Rios-Martinez/3D/assets/47394043/92df643e-5ce1-49d6-a166-dd77667711ae" />
     </a>  
 
 &nbsp;
@@ -22,7 +22,7 @@
 
 <a href="#">
   <img width="80%"
-            src="https://github.com/Juan-Sebastian-Rios-Martinez/LOGOS/assets/47394043/54517c87-785f-4741-800c-ce07a417c615" />
+            src="https://github.com/Juan-Sebastian-Rios-Martinez/3D/assets/47394043/b9b621b0-111d-4478-9493-b28d44d0258d" />
     </a>  
 
 
