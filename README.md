@@ -1,9 +1,9 @@
-
+&nbsp;
 
 <div align="center">
    <a href="#">
   <img width="80%"
-            src="https://github.com/Juan-Sebastian-Rios-Martinez/3D/assets/47394043/e5e890ce-755b-4a7e-86ed-46ae9937eee4" />
+            src="https://github.com/Juan-Sebastian-Rios-Martinez/3D/assets/47394043/e3cbbffa-3c33-4c98-8d1d-01051fefc640" />
     </a>  
    
 &nbsp;
