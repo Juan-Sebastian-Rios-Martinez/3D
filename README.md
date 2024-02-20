@@ -13,10 +13,10 @@
 
 &nbsp;
 
-   
+
    <a href="#">
   <img width="80%"
-            src="https://github.com/Juan-Sebastian-Rios-Martinez/3D/assets/47394043/278fc34b-7810-4916-8aa6-cb08aa147970)" />
+            src="https://github.com/Juan-Sebastian-Rios-Martinez/3D/assets/47394043/9e3bcd0f-b577-4d61-b12a-2a9ad4c0d13d" />
     </a>  
   
    
