@@ -1,9 +1,16 @@
 &nbsp;
 
+
 <div align="center">
 
 
-<div align="center">
+ <a href="https://juan-sebastian-rios-martinez.github.io/Portafolio/">
+        <img width="80%"
+            src="https://github.com/user-attachments/assets/162d53dc-4010-4763-a640-e84821cf963b" />
+    </a>
+
+
+   &nbsp;
 
    
    <a href="#">
