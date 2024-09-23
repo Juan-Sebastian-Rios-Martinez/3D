@@ -31,7 +31,7 @@
 
    <a href="#">
   <img width="80%"
-            src="https://github.com/Juan-Sebastian-Rios-Martinez/3D/assets/47394043/0a19cd4a-3060-4e68-a6fe-8969ca492577" />
+            src="https://github.com/user-attachments/assets/8fd6f0fb-c285-433b-b88c-3d37f42a8676" />
     </a>  
   
    
